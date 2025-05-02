@@ -28,10 +28,4 @@ A Streamlit-based application that summarizes content from **websites** and **Yo
 
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/langchain-summarizer.git
-   cd langchain-summarizer
 
